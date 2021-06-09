@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - Ice
+  - Enemy
+  - Boss
+  - Coin
+  - Lava
+  - normal_hit
+  - Alert
+  - Red_sword
+  - NPC
+  - Strike
+  - jump_attack
+  - red_slash
+  - Life
+  - Boss_spear
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Ice
+  - Terrain
+  - Enemy
+  - Player
+  - Boss
+  - Lava
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2366689887
+    locked: 0
+  - name: Ground
+    uniqueID: 1343327097
+    locked: 0
+  - name: Lava
+    uniqueID: 1483718633
+    locked: 0
+  - name: Torch
+    uniqueID: 251340517
+    locked: 0
+  - name: Door
+    uniqueID: 242833341
+    locked: 0
+  - name: Chest
+    uniqueID: 2379781019
+    locked: 0
+  - name: Marker
+    uniqueID: 1605972527
+    locked: 0
+  - name: Bridge
+    uniqueID: 678890271
+    locked: 0
+  - name: Grass
+    uniqueID: 1444989589
+    locked: 0
+  - name: House
+    uniqueID: 3893957173
+    locked: 0
+  - name: NPC
+    uniqueID: 69766783
+    locked: 0
+  - name: Player
+    uniqueID: 2873509563
+    locked: 0
+  - name: Enemy
+    uniqueID: 924179553
+    locked: 0
+  - name: Coin
+    uniqueID: 2856281877
+    locked: 0
+  - name: Boss
+    uniqueID: 680512797
+    locked: 0
+  - name: Life
+    uniqueID: 1494624043
+    locked: 0
